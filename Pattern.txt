@@ -1,0 +1,7 @@
+(?i)gloomy
+(?i)haunting
+(?i)mysterious
+(?i)foreboding
+(?i)melancholic
+(?i)terror
+(?i)desolate
